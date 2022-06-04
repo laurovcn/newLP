@@ -11,14 +11,7 @@ import { PageTech } from "../components/PageTech";
 const IndexPage = () => {
   return (
     <>
-
-      <PageTech />
-      <PagePlane />
-      <PageCoutdown />
-      <AccordionItens />
-      <AboutMe />
-      <ContactForm />
-      <Footer />
+      <BoxGadient/>      
     </>
   );
 };
